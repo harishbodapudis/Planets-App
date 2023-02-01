@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.main-container {
+  width: 80%;
+  margin: auto;
+}
+
+.heading {
+  color: #05acff;
+  text-align: center;
+}

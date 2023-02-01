@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.color-name {
+  color: #f8fafc;
+}
+.description {
+  text-align: center;
+  width: 800px;
+  color: #f1f5f9;
+}
+.slide-img {
+  height: 300px;
+  width: 400px;
+}
+.slide-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
